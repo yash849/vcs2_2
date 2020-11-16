@@ -4,3 +4,4 @@ pizza:
 - kaas
 - racola
 - tomatensaus
+- blauwe kaas
