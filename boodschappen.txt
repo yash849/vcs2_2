@@ -4,4 +4,13 @@ pizza:
 - kaas
 - racola
 - tomatensaus
+<<<<<<< HEAD
 - blauwe kaas
+=======
+
+ontbijt
+- brood
+- kaas
+- melk
+- eieren
+>>>>>>> ontbijt
