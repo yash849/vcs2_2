@@ -9,3 +9,4 @@ ontbijt
 - brood
 - kaas
 - melk
+- eieren
